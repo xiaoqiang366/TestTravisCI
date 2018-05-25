@@ -11,4 +11,4 @@
 3. github 和 travis-ci 是个站点，换句话说就是两个东西如果能打通呢。需要用户登录 travis-ci 并授权访问到你的 github 项目并进行相关的项目设置。
 4. 接入完成后就可以根据自己的需要来运行写好的测试代码，也可以设置定期任务去跑测试。
 
-[图文说明过程]: https://www.jianshu.com/p/8b91d12e31c0
+[图文说明过程](https://www.jianshu.com/p/8b91d12e31c0)
